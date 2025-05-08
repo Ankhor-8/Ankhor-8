@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ankhor-8
-- 👀 I’m an agile project manager, scrum practioner. Learning extreme programming via slef studying javascript and currently a student of pyhton.
+- 👀 I’m an agile project manager, scrum practioner. Learning extreme programming via self studying javascript and currently a student of python.
 - 🌱 I’m here to practice, plan and interact.
-- 💞️ I’m looking to collaborate on progress.
-- 📫 How to reach me is easy, apply will.
+- 💞️ I’m looking to collaborate on projects I like.
+- 📫 Reach me via sending a message here or 647-370-8787.
+- I will also learn ABAP, Fortron and Cobol
 
 <!---
 Ankhor-8/Ankhor-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
