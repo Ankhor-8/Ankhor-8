@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankhor-8
+- 👋 Greetings. You may refer to me as Ankhor.
 - 👀 I’m an agile project manager, scrum practioner. Learning extreme programming via self studying javascript and currently a student of python.
 - 🌱 I’m here to practice, plan and interact.
 - 💞️ I’m looking to collaborate on projects I like.
